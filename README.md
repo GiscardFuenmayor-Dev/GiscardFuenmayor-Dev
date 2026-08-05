@@ -1,110 +1,102 @@
-# Giscard Fuenmayor | Systems Analyst
+# ⚙️ Giscard Fuenmayor | Systems Analyst & Full-Stack Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Perfil-Analista%20de%20Sistemas%20%26%20Full%20Stack-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Formaci%C3%B3n-IUTEPI%20(6to%20Semestre)-green?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Valencia%2C%20Venezuela-red?style=for-the-badge&logo=google-maps&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Analista%20de%20Sistemas%20(6to%20Semestre)-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Especialidad-Arquitectura%20%26%20Full%20Stack-333?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicación-Valencia%2C%20Carabobo-DC3545?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-> **Analista de Sistemas y Desarrollador Full Stack** enfocado en la arquitectura de software, modelado de bases de datos relacionales y desarrollo de aplicaciones web, de escritorio y videojuegos. Co-desarrollador activo en proyectos tecnológicos galardonados en Expoferias IUTEPI.
+> **Analista de Sistemas y Desarrollador Full Stack** especializado en arquitectura de software, modelado relacional de bases de datos y desarrollo de aplicaciones integradas (Web, Desktop, AI & Motores de Videojuegos). Co-desarrollador en múltiples proyectos galardonados en las Expoferias Tecnológicas IUTEPI.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Especificaciones Técnicas & Stack
 
-| Categoría | Tecnologías y Herramientas |
+| Dominio | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Backend & Lógica** | `Python` `C#` `Java` `C++` `PHP` `Flask` |
-| **Frontend & UI** | `KivyMD` `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` |
-| **Bases de Datos** | `PostgreSQL` `MySQL` `SQL Server` `SQLite` |
+| **Backend & Lógica Core** | `Python` `C#` `Java` `C++` `PHP` `Flask` |
+| **Frontend & UI/UX** | `KivyMD` `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` |
+| **Bases de Datos & Persistencia** | `PostgreSQL` `MySQL` `SQL Server` `SQLite` |
 | **Motores & Herramientas** | `Godot Engine (GDScript)` `Git` `GitHub` `VS Code` `Linux` |
 
 ---
 
-## 🚀 Proyectos Co-Desarrollados & Portafolio
+## 📂 Portafolio de Proyectos (Dossier Técnico)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ 4. Project AUDITTANIMUS</h3>
-      <div align="center">
-        <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
-      </div>
-      <br>
-      <b>Rol:</b> Co-Desarrollador (Integración de IA)<br>
-      <b>Descripción:</b> Recreación e implementación conceptual de la base de datos de Animus inspirada en la franquicia Assassin's Creed.<br>
-      <b>Stack:</b> Godot Engine, GDScript, Groq, SQLite.<br>
-      <br>
-      <div align="center">
-        <code>[PRÓXIMAMENTE FORK]</code>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 3. Project MADAI (Me As Developer AI)</h3>
-      <div align="center">
-        <a href="https://github.com/LeonelMachado-Dev/Project-MADAI" target="_blank">
-          <img src="https://i.imgur.com/3ZEOtEt.png" alt="Project MADAI Banner" width="100%" />
-        </a>
-      </div>
-      <br>
-      <b>Rol:</b> Co-Desarrollador Backend & Integración de IA<br>
-      <b>Descripción:</b> Aplicación en Python y KivyMD que integra modelos de IA locales (Ollama / Phi-3) para asistir a programadores en tiempo real.<br>
-      <b>Stack:</b> Python, KivyMD, MySQL.<br>
-      <b>Reconocimiento:</b> 🏆 <b>2do Lugar en Expoferia Tecnológica (IUTEPI)</b> en tres ediciones consecutivas (2025 – 2026).<br>
-      <br>
-      <div align="center">
-        <a href="https://github.com/LeonelMachado-Dev/Project-MADAI" target="_blank">🔗 Ver Repositorio</a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 2. Project Super Pixel</h3>
-      <div align="center">
-        <a href="https://github.com/LeonelMachado-Dev/Project-Super-Pixel" target="_blank">
-          <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
-        </a>
-      </div>
-      <br>
-      <b>Rol:</b> Co-Desarrollador & Lógica de Juego<br>
-      <b>Descripción:</b> Demo jugable de 2 niveles en motor 2D con mecánicas de interacción y nivelación personalizadas.<br>
-      <b>Stack:</b> Godot Engine, GDScript.<br>
-      <b>Reconocimiento:</b> 🏆 Certificación Expoferia Godot (IUTEPI).<br>
-      <br>
-      <div align="center">
-        <a href="https://github.com/LeonelMachado-Dev/Project-Super-Pixel" target="_blank">🔗 Ver Repositorio</a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏋️‍♂️ 1. DexGym!</h3>
-      <div align="center">
-        <a href="https://github.com/LeonelMachado-Dev/DexGym" target="_blank">
-          <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
-        </a>
-      </div>
-      <br>
-      <b>Rol:</b> Co-Desarrollador (Lógica & Base de Datos)<br>
-      <b>Descripción:</b> Sistema integral para la administración de gimnasios, control de membresías y gestión de usuarios.<br>
-      <b>Stack:</b> C#, Arquitectura MVC, SQL Server.<br>
-      <b>Reconocimiento:</b> 🏆 Certificación en Expoferia Tecnológica (IUTEPI).<br>
-      <br>
-      <div align="center">
-        <a href="https://github.com/LeonelMachado-Dev/DexGym" target="_blank">🔗 Ver Repositorio</a>
-      </div>
-    </td>
-  </tr>
-</table>
+### 🤖 1. Project MADAI (Me As Developer AI)
+<p align="center">
+  <img src="https://i.imgur.com/3ZEOtEt.png" alt="MADAI Banner" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20Backend%20%26%20IA-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Premio-2do%20Lugar%20Expoferia%20(3%20Ediciones)-FFD700?style=flat-square&logo=trophy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20KivyMD%20%7C%20MySQL-007ACC?style=flat-square" />
+</p>
+
+* **Arquitectura:** Asistente inteligente en tiempo real que integra modelos de IA locales (Ollama / Phi-3) para asistencia a programadores.
+* **Contribución:** Co-desarrollo de la arquitectura backend, lógica de comunicación con modelos de lenguaje y estructuración relacional en MySQL.
+* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
 
 ---
 
-## 💼 Experiencia Laboral
+### 🏛️ 2. Project AUDITTANIMUS
+<p align="center">
+  <img src="https://i.imgur.com/xFCDTkc.png" alt="AUDITTANIMUS Banner" width="100%" />
+</p>
 
-**COMFUTECH.NET C.A.** *(2025 – 2026)*
-* **Diseñador y Programador:** Desarrollo de software y maquetación de interfaces.
-* **Técnico de Mantenimiento:** Diagnóstico, reparación de hardware y configuración de computadoras.
+<p align="left">
+  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20(Integración%20IA)-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estado-Fork%20Próximamente-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Godot%20%7C%20GDScript%20%7C%20Groq%20%7C%20SQLite-007ACC?style=flat-square" />
+</p>
+
+* **Arquitectura:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en la franquicia Assassin's Creed).
+* **Contribución:** Integración de la API de Groq para procesar consultas conversacionales y estructuración de la base de datos en SQLite.
+* 🔗 **Estado:** Próximamente Fork disponible.
 
 ---
 
-## 📬 Contacto
-- **Correo:** giscardfuenmayormontilla@gmail.com
-- **Ubicación:** Valencia, Carabobo, Venezuela
+### 🎮 3. Project Super Pixel
+<p align="center">
+  <img src="https://i.imgur.com/sqOLH53.png" alt="Super Pixel Banner" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20%26%20Lógica%20de%20Juego-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reconocimiento-Certificación%20Expoferia%20Godot-00FF7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Godot%20Engine%20%7C%20GDScript-007ACC?style=flat-square" />
+</p>
+
+* **Arquitectura:** Demo jugable de 2 niveles (Valle a Desierto) en motor 2D con físicas personalizadas, eventos de interacción y sistema de nivelación.
+* **Contribución:** Programación de mecánicas en GDScript, diseño de comportamiento de escenarios y lógica de control del personaje.
+* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
+
+---
+
+### 🏋️‍♂️ 4. DexGym!
+<p align="center">
+  <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20(Lógica%20%26%20DB)-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reconocimiento-Certificación%20Expoferia-00FF7F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-C%23%20%7C%20MVC%20%7C%20SQL%20Server-007ACC?style=flat-square" />
+</p>
+
+* **Arquitectura:** Sistema integral para administración de gimnasios, control de membresías, autenticación de accesos y reportes.
+* **Contribución:** Diseño del esquema relacional en SQL Server y desarrollo de la lógica de negocio bajo el patrón MVC en C#.
+* 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
+
+---
+
+## 💼 Trayectoria Laboral
+
+```text
+┌───────────────────────────────────────────────────────────────────────────┐
+│ COMFUTECH.NET C.A. (2025 – 2026)                                          │
+├───────────────────────────────────────────────────────────────────────────┤
+│ • Diseñador & Programador: Desarrollo de software y maquetación de UI.     │
+│ • Técnico de Mantenimiento: Diagnóstico, reparación de HW y soporte.      │
+└───────────────────────────────────────────────────────────────────────────┘
