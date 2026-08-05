@@ -14,8 +14,8 @@
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Backend & Lógica** | `Python` `C#` `Java` `C++` `PHP` `Flask` `KivyMD` |
-| **Frontend & UI** | `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` |
+| **Backend & Lógica** | `Python` `C#` `Java` `C++` `PHP` `Flask` |
+| **Frontend & UI** | `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` `KivyMD` `React` |
 | **Bases de Datos** | `PostgreSQL` `MySQL` `SQL Server` `SQLite` |
 | **Motores & Herramientas** | `Godot Engine (GDScript)` `Git` `GitHub` `VS Code` `Linux` |
 
