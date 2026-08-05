@@ -32,7 +32,7 @@
 
 > **Rol:** Co-Desarrollador (Integración de IA)  
 > **Descripción:** Recreación e implementación conceptual de la base de datos de Animus inspirada en la franquicia Assassin's Creed.  
-> **Stack:** C#, Modelado Relacional, Interfaz Gráfica.  
+> **Stack:** Godot Engine, GDScript, Groq, SQLite.  
 > 🔗 [PRÓXIMAMENTE FORK]
 
 ---
@@ -43,7 +43,8 @@
 </p>
 
 > **Rol:** Co-Desarrollador Backend & Integración de IA  
-> **Descripción:** Aplicación en Python y KivyMD que integra modelos de IA locales (Ollama / Phi-3) para asistir a programadores en tiempo real.  
+> **Descripción:** Aplicación en Python y KivyMD que integra modelos de IA locales (Ollama / Phi-3) para asistir a programadores en tiempo real.
+> **Stack:** Python, KivyMD, MySQL.  
 > **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)** en tres ediciones consecutivas (2025 – 2026).  
 > 🔗 [Ver Repositorio del Proyecto](https://github.com/LeonelMachado-Dev/Project-MADAI)
 
@@ -69,7 +70,7 @@
 
 > **Rol:** Co-Desarrollador (Lógica & Base de Datos)  
 > **Descripción:** Sistema integral para la administración de gimnasios, control de membresías y gestión de usuarios.  
-> **Stack:** C#, Arquitectura MVC, SQL.  
+> **Stack:** C#, Arquitectura MVC, SQL Server.  
 > **Reconocimiento:** 🏆 Certificación en Expoferia Tecnológica (IUTEPI).  
 > 🔗 [Ver Repositorio del Proyecto](https://github.com/LeonelMachado-Dev/DexGym)
 
