@@ -1,18 +1,23 @@
-# ⚙️ Giscard Fuenmayor | Systems Analyst & Full-Stack Developer
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Analista%20de%20Sistemas%20(6to%20Semestre)-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Especialidad-Arquitectura%20%26%20Full%20Stack-333?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubicación-Valencia%2C%20Carabobo-DC3545?style=for-the-badge&logo=google-maps&logoColor=white" />
-</p>
+# 🏛️ GISCARD FUENMAYOR
+### **Systems Analyst & Full-Stack Engineer**
 
-> **Analista de Sistemas y Desarrollador Full Stack** especializado en arquitectura de software, modelado relacional de bases de datos y desarrollo de aplicaciones integradas (Web, Desktop, AI & Motores de Videojuegos). Co-desarrollador en múltiples proyectos galardonados en las Expoferias Tecnológicas IUTEPI.
+[![Status](https://img.shields.io/badge/Nivel-Analista_de_Sistemas_(6to_Semestre)-0F172A?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8)](#)
+[![Location](https://img.shields.io/badge/Ubicación-Valencia,_Carabobo,_VE-0F172A?style=for-the-badge&logo=google-maps&logoColor=F43F5E)](#)
+[![Focus](https://img.shields.io/badge/Especialidad-Arquitectura_&_Full_Stack-0F172A?style=for-the-badge&logo=codeforces&logoColor=34D399)](#)
 
 ---
 
-## 🛠️ Especificaciones Técnicas & Stack
+> **Analista de Sistemas y Desarrollador Full-Stack** orientado a la arquitectura de software, modelado de bases de datos relacionales y construcción de soluciones integradas (Web, Desktop, AI & Motores de Videojuegos). Co-desarrollador en proyectos tecnológicos premiados en las Expoferias IUTEPI.
 
-| Dominio | Tecnologías y Herramientas |
+</div>
+
+---
+
+## 💻 Especificaciones del Stack
+
+| Dominio | Tecnologías y Herramientas Integradas |
 | :--- | :--- |
 | **Backend & Lógica Core** | `Python` `C#` `Java` `C++` `PHP` `Flask` |
 | **Frontend & UI/UX** | `KivyMD` `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` |
@@ -21,82 +26,80 @@
 
 ---
 
-## 📂 Portafolio de Proyectos (Dossier Técnico)
+## 🚀 Portafolio de Proyectos (Co-Desarrollo)
 
 ### 🤖 1. Project MADAI (Me As Developer AI)
-<p align="center">
-  <img src="https://i.imgur.com/3ZEOtEt.png" alt="MADAI Banner" width="100%" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/3ZEOtEt.png" alt="Project MADAI Banner" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20Backend%20%26%20IA-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Premio-2do%20Lugar%20Expoferia%20(3%20Ediciones)-FFD700?style=flat-square&logo=trophy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20KivyMD%20%7C%20MySQL-007ACC?style=flat-square" />
-</p>
+<br>
 
-* **Arquitectura:** Asistente inteligente en tiempo real que integra modelos de IA locales (Ollama / Phi-3) para asistencia a programadores.
-* **Contribución:** Co-desarrollo de la arquitectura backend, lógica de comunicación con modelos de lenguaje y estructuración relacional en MySQL.
+* **Descripción:** Asistente inteligente para programadores en tiempo real que integra modelos de IA locales (`Ollama` / `Phi-3`).
+* **Rol & Aporte:** Co-desarrollo backend, estructuración de la base de datos relacional y lógica de integración con modelos.
+* **Stack:** `Python` • `KivyMD` • `MySQL`
+* **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)** (3 ediciones consecutivas: 2025 – 2026).
 * 🔗 **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
 
 ---
 
 ### 🏛️ 2. Project AUDITTANIMUS
-<p align="center">
-  <img src="https://i.imgur.com/xFCDTkc.png" alt="AUDITTANIMUS Banner" width="100%" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20(Integración%20IA)-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Estado-Fork%20Próximamente-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Godot%20%7C%20GDScript%20%7C%20Groq%20%7C%20SQLite-007ACC?style=flat-square" />
-</p>
+<br>
 
-* **Arquitectura:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en la franquicia Assassin's Creed).
-* **Contribución:** Integración de la API de Groq para procesar consultas conversacionales y estructuración de la base de datos en SQLite.
-* 🔗 **Estado:** Próximamente Fork disponible.
+* **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
+* **Rol & Aporte:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
+* **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
+* 🔗 **Estado:** `[PRÓXIMAMENTE FORK]`
 
 ---
 
 ### 🎮 3. Project Super Pixel
-<p align="center">
-  <img src="https://i.imgur.com/sqOLH53.png" alt="Super Pixel Banner" width="100%" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20%26%20Lógica%20de%20Juego-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reconocimiento-Certificación%20Expoferia%20Godot-00FF7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Godot%20Engine%20%7C%20GDScript-007ACC?style=flat-square" />
-</p>
+<br>
 
-* **Arquitectura:** Demo jugable de 2 niveles (Valle a Desierto) en motor 2D con físicas personalizadas, eventos de interacción y sistema de nivelación.
-* **Contribución:** Programación de mecánicas en GDScript, diseño de comportamiento de escenarios y lógica de control del personaje.
+* **Descripción:** Demo jugable de 2 niveles en motor 2D con mecánicas de interacción, físicas y sistema de nivelación.
+* **Rol & Aporte:** Co-desarrollo y lógica de juego, programación de comportamientos y eventos de escenario.
+* **Stack:** `Godot Engine` • `GDScript`
+* **Reconocimiento:** 🏆 **Certificación Expoferia Godot (IUTEPI)**.
 * 🔗 **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
 
 ---
 
 ### 🏋️‍♂️ 4. DexGym!
-<p align="center">
+<div align="center">
   <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
-</p>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rol-Co--Desarrollador%20(Lógica%20%26%20DB)-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reconocimiento-Certificación%20Expoferia-00FF7F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-C%23%20%7C%20MVC%20%7C%20SQL%20Server-007ACC?style=flat-square" />
-</p>
+<br>
 
-* **Arquitectura:** Sistema integral para administración de gimnasios, control de membresías, autenticación de accesos y reportes.
-* **Contribución:** Diseño del esquema relacional en SQL Server y desarrollo de la lógica de negocio bajo el patrón MVC en C#.
+* **Descripción:** Sistema integral de software para la administración de gimnasios, gestión de usuarios, membresías y accesos.
+* **Rol & Aporte:** Co-desarrollo de la lógica de negocio y arquitectura de base de datos relacional.
+* **Stack:** `C#` • `Arquitectura MVC` • `SQL Server`
+* **Reconocimiento:** 🏆 **Certificación en Expoferia Tecnológica (IUTEPI)**.
 * 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
 
 ---
 
-## 💼 Trayectoria Laboral
+## 💼 Trayectoria Profesional
 
-```text
-┌───────────────────────────────────────────────────────────────────────────┐
-│ COMFUTECH.NET C.A. (2025 – 2026)                                          │
-├───────────────────────────────────────────────────────────────────────────┤
-│ • Diseñador & Programador: Desarrollo de software y maquetación de UI.     │
-│ • Técnico de Mantenimiento: Diagnóstico, reparación de HW y soporte.      │
-└───────────────────────────────────────────────────────────────────────────┘
+#### **COMFUTECH.NET C.A.** *(2025 – 2026)*
+* **Diseñador y Programador:** Desarrollo de módulos de software y maquetación de interfaces gráficas.
+* **Técnico de Mantenimiento:** Diagnóstico preventivo/correctivo de hardware, soporte técnico y configuración de sistemas.
+
+---
+
+<div align="center">
+
+## 📬 Contacto & Información
+
+📧 **Correo:** [giscardfuenmayormontilla@gmail.com](mailto:giscardfuenmayormontilla@gmail.com)  
+📍 **Ubicación:** Valencia, Carabobo, Venezuela
+
+</div>
