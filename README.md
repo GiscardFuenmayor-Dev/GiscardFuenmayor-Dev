@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ GISCARD FUENMAYOR
+# GISCARD FUENMAYOR
 ### **Systems Analyst & Full-Stack**
 
 [![Status](https://img.shields.io/badge/Nivel-Analista_de_Sistemas_(6to_Semestre)-0F172A?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8)](#)
