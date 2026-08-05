@@ -28,33 +28,17 @@
 
 ## 🚀 Portafolio de Proyectos (Co-Desarrollo)
 
-### 🏋️‍♂️ 1. DexGym!
+### 🏛️ 4. Project AUDITTANIMUS
 <div align="center">
-  <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
+  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
 </div>
 
 <br>
 
-* **Descripción:** Sistema integral de software para la administración de gimnasios, gestión de usuarios, membresías y accesos.
-* **Rol & Aporte:** Co-desarrollo de la lógica de negocio y arquitectura de base de datos relacional.
-* **Stack:** `C#` • `Arquitectura MVC` • `SQL Server`
-* **Reconocimiento:** 🏆 **Certificación en Expoferia Tecnológica (IUTEPI)**.
-* 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
-
----
-
-### 🎮 2. Project Super Pixel
-<div align="center">
-  <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
-</div>
-
-<br>
-
-* **Descripción:** Demo jugable de 2 niveles en motor 2D con mecánicas de interacción, físicas y sistema de nivelación.
-* **Rol & Aporte:** Co-desarrollo y lógica de juego, programación de comportamientos y eventos de escenario.
-* **Stack:** `Godot Engine` • `GDScript`
-* **Reconocimiento:** 🏆 **Certificación Expoferia Godot (IUTEPI)**.
-* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
+* **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
+* **Rol & Aporte:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
+* **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
+* 🔗 **Estado:** `[PRÓXIMAMENTE FORK]`
 
 ---
 
@@ -73,17 +57,33 @@
 
 ---
 
-### 🏛️ 4. Project AUDITTANIMUS
+### 🎮 2. Project Super Pixel
 <div align="center">
-  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
+  <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
 </div>
 
 <br>
 
-* **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
-* **Rol & Aporte:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
-* **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
-* 🔗 **Estado:** `[PRÓXIMAMENTE FORK]`
+* **Descripción:** Demo jugable de 2 niveles en motor 2D con mecánicas de interacción, físicas y sistema de nivelación.
+* **Rol & Aporte:** Co-desarrollo y lógica de juego, programación de comportamientos y eventos de escenario.
+* **Stack:** `Godot Engine` • `GDScript`
+* **Reconocimiento:** 🏆 **Certificación Expoferia Godot (IUTEPI)**.
+* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
+
+---
+
+### 🏋️‍♂️ 1. DexGym!
+<div align="center">
+  <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
+</div>
+
+<br>
+
+* **Descripción:** Sistema integral de software para la administración de gimnasios, gestión de usuarios, membresías y accesos.
+* **Rol & Aporte:** Co-desarrollo de la lógica de negocio y arquitectura de base de datos relacional.
+* **Stack:** `C#` • `Arquitectura MVC` • `SQL Server`
+* **Reconocimiento:** 🏆 **Certificación en Expoferia Tecnológica (IUTEPI)**.
+* 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
 
 ---
 
