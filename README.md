@@ -1,91 +1,74 @@
-# Giscard Fuenmayor
+# Giscard Fuenmayor | Systems Analyst
 
-<p align="left\">
-  <img src=\"https://img.shields.io/badge/-Analista%20de%20Sistemas-333?style=flat-and-square&logo=visual-studio-code&logoColor=white\" />
-  <img src=\"https://img.shields.io/badge/-Full%20Stack%20Developer-blue?style=flat-and-square&logo=react&logoColor=white\" />
-  <img src=\"https://img.shields.io/badge/Ubicación-Valencia%2C%20VE-red?style=flat-and-square&logo=google-maps&logoColor=white\" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfil-Analista%20de%20Sistemas%20%26%20Full%20Stack-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Formaci%C3%B3n-IUTEPI%20(6to%20Semestre)-green?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Valencia%2C%20Venezuela-red?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
----
-
-## 👨‍💻 Sobre mí
-
-Estudiante avanzado de **Análisis de Sistemas** en IUTEPI. Me especializo en el desarrollo Full Stack, combinando la lógica robusta del Backend con interfaces de usuario eficientes. Mi enfoque está orientado a la resolución de problemas técnicos, la optimización de flujos de datos y el desarrollo de software escalable.
-
-- 🎓 **Educación:** Análisis de Sistemas | IUTEPI | Graduación proyectada: Dic 2026.
-- 🚧 **Actualmente:** Desarrollando integraciones asíncronas con Python y React.
-- 💬 **Intereses:** Arquitectura de software, optimización de bases de datos relacionales y automatización.
+> **Analista de Sistemas y Desarrollador Full Stack** enfocado en la arquitectura de software, modelado de bases de datos relacionales y desarrollo de aplicaciones web, de escritorio y videojuegos. Co-desarrollador activo en proyectos tecnológicos galardonados en Expoferias IUTEPI.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-<!-- Organizamos las habilidades en líneas sólidas para dar sensación de robustez -->
-
-### 🖥️ Backend & Core
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask&logoColor=white)
-![KivyMD](https://img.shields.io/badge/-KivyMD-333?style=flat&logo=python&logoColor=white)
-
-### 🎨 Frontend & Maquetación
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=white)
-
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite&logoColor=white)
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend & Lógica** | `Python` `C#` `Java` `C++` `PHP` `Flask` `KivyMD` |
+| **Frontend & UI** | `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` |
+| **Bases de Datos** | `PostgreSQL` `MySQL` `SQL Server` `SQLite` |
+| **Motores & Herramientas** | `Godot Engine (GDScript)` `Git` `GitHub` `VS Code` `Linux` |
 
 ---
 
-## 📁 Proyectos Destacados (Fijados)
-
-*Estos son mis proyectos principales. Para ver el código, visita la sección "Pinned" o la pestaña de "Repositories".*
-
-### 1. Sistema de Gestión e Inventario Integral
-> **Rol:** Desarrollador Full Stack / Arquitecto de Base de Datos
->
-> Solución robusta para el control de inventario y procesos administrativos. Incluye módulos de registro, consultas optimizadas e interfaz gráfica intuitiva.
->
-> **Stack:** Python, Flask, PostgreSQL, KivyMD.
-
-### 2. Integración de IA MADAI (Colaborativo)
-> **Rol:** Desarrollador Backend & Integración de Modelos
->
-> Concepto de asistente para programadores que utiliza modelos de IA locales (Ollama/Phi-3).
->
-> **Reconocimientos:** 🏆 2do Lugar en Expoferia Tecnológica (3 ediciones consecutivas) | IUTEPI.
+## 🚀 Proyectos Co-Desarrollados & Portafolio
 
 ---
+
+### 🏛️ 4. Project AUDITTANIMUS
+> **Rol:** Co-Desarrollador (Integración de IA)  
+> **Descripción:** Recreación e implementación conceptual de la base de datos de Animus inspirada en la franquicia Assassin's Creed.  
+> **Stack:** C#, Modelado Relacional, Interfaz Gráfica.  
+> 🔗 [PRÓXIMAMENTE FORK]
+
+---
+
+### 🤖 3. Project MADAI (Me As Developer AI)
+> **Rol:** Co-Desarrollador Backend & Integración de IA  
+> **Descripción:** Aplicación en Python y KivyMD que integra modelos de IA locales (Ollama / Phi-3) para asistir a programadores en tiempo real.  
+> **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)** en tres ediciones consecutivas (2025 – 2026).  
+> 🔗 [Ver Repositorio del Proyecto](https://github.com/LeonelMachado-Dev/Project-MADAI)
+
+---
+
+### 🎮 2. Project Super Pixel
+> **Rol:** Co-Desarrollador & Lógica de Juego  
+> **Descripción:** Demo jugable de 2 niveles en motor 2D con mecánicas de interacción y nivelación personalizadas.  
+> **Stack:** Godot Engine, GDScript.  
+> **Reconocimiento:** 🏆 Certificación Expoferia Godot (IUTEPI).  
+> 🔗 [Ver Repositorio del Proyecto](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
+
+---
+
+### 🏋️‍♂️ 1. DexGym!
+> **Rol:** Co-Desarrollador (Lógica & Base de Datos)  
+> **Descripción:** Sistema integral para la administración de gimnasios, control de membresías y gestión de usuarios.  
+> **Stack:** C#, Arquitectura MVC, SQL.  
+> **Reconocimiento:** 🏆 Certificación en Expoferia Tecnológica (IUTEPI).  
+> 🔗 [Ver Repositorio del Proyecto](https://github.com/LeonelMachado-Dev/DexGym)
+
+---
+
 
 ## 💼 Experiencia Laboral
 
-**COMFUTECH.NET C.A.** | *2025 - 2026*
-
-*   **Diseñador y Programador:** Desarrollo de software y maquetación de interfaces.
-*   **Técnico de Mantenimiento:** Diagnóstico y reparación de hardware.
-
----
-
+**COMFUTECH.NET C.A.** *(2025 – 2026)*
+* **Diseñador y Programador:** Desarrollo de software, maquetación de interfaces y mantenimiento de código.
+* **Técnico de Mantenimiento:** Diagnóstico, reparación de hardware y configuración de sistemas informáticos.
 
 ---
 
-## 📬 Conecta conmigo
-<p align=\"left\">
-<a href=\"mailto:giscardfuenmayormontilla@gmail.com\" target=\"_blank\">
-<img src=\"https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white\" />
-</a>
-<!-- Añade aquí tu LinkedIn si tienes -->
-<!--
-<a href=\"https://www.linkedin.com/in/tu-perfil\" target=\"_blank\">
-<img src=\"https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white\" />
-</a>
--->
-</p>
+
+## 📬 Contacto
+- **Correo:** giscardfuenmayormontilla@gmail.com
+- **Ubicación:** Valencia, Carabobo, Venezuela
