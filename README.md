@@ -52,7 +52,7 @@
 * **Descripción:** Asistente inteligente para programadores en tiempo real que integra modelos de IA locales (`Ollama` / `Phi-3`).
 * **Rol & Aporte:** Co-desarrollo backend, estructuración de la base de datos relacional y lógica de integración con modelos.
 * **Stack:** `Python` • `KivyMD` • `MySQL`
-* **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)** (3 ediciones consecutivas: 2025 – 2026).
+* **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)**
 * 🔗 **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
 
 ---
