@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🏛️ GISCARD FUENMAYOR
-### **Systems Analyst & Full-Stack Engineer**
+### **Systems Analyst & Full-Stack**
 
 [![Status](https://img.shields.io/badge/Nivel-Analista_de_Sistemas_(6to_Semestre)-0F172A?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8)](#)
 [![Location](https://img.shields.io/badge/Ubicación-Valencia,_Carabobo,_VE-0F172A?style=for-the-badge&logo=google-maps&logoColor=F43F5E)](#)
-[![Focus](https://img.shields.io/badge/Especialidad-Arquitectura_&_Full_Stack-0F172A?style=for-the-badge&logo=codeforces&logoColor=34D399)](#)
+[![Focus](https://img.shields.io/badge/Especialidad-Full_Stack-0F172A?style=for-the-badge&logo=codeforces&logoColor=34D399)](#)
 
 ---
 
@@ -19,45 +19,31 @@
 
 | Dominio | Tecnologías y Herramientas Integradas |
 | :--- | :--- |
-| **Backend & Lógica Core** | `Python` `C#` `Java` `C++` `PHP` `Flask` |
+| **Backend & Lógica Core** | `Python` `C#` `Java` `C++` `PHP` `Flask` `Visual Basic` |
 | **Frontend & UI/UX** | `KivyMD` `JavaScript` `TypeScript` `React` `Vite` `HTML5` `CSS3` |
 | **Bases de Datos & Persistencia** | `PostgreSQL` `MySQL` `SQL Server` `SQLite` |
-| **Motores & Herramientas** | `Godot Engine (GDScript)` `Git` `GitHub` `VS Code` `Linux` |
+| **Motores & Herramientas** | `Godot Engine (GDScript)` `Git` `GitHub` `VS Code` `Windows` |
 
 ---
 
 ## 🚀 Portafolio de Proyectos (Co-Desarrollo)
 
-### 🤖 1. Project MADAI (Me As Developer AI)
+### 🏋️‍♂️ 1. DexGym!
 <div align="center">
-  <img src="https://i.imgur.com/3ZEOtEt.png" alt="Project MADAI Banner" width="100%" />
+  <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
 </div>
 
 <br>
 
-* **Descripción:** Asistente inteligente para programadores en tiempo real que integra modelos de IA locales (`Ollama` / `Phi-3`).
-* **Rol & Aporte:** Co-desarrollo backend, estructuración de la base de datos relacional y lógica de integración con modelos.
-* **Stack:** `Python` • `KivyMD` • `MySQL`
-* **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)** (3 ediciones consecutivas: 2025 – 2026).
-* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
+* **Descripción:** Sistema integral de software para la administración de gimnasios, gestión de usuarios, membresías y accesos.
+* **Rol & Aporte:** Co-desarrollo de la lógica de negocio y arquitectura de base de datos relacional.
+* **Stack:** `C#` • `Arquitectura MVC` • `SQL Server`
+* **Reconocimiento:** 🏆 **Certificación en Expoferia Tecnológica (IUTEPI)**.
+* 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
 
 ---
 
-### 🏛️ 2. Project AUDITTANIMUS
-<div align="center">
-  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
-</div>
-
-<br>
-
-* **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
-* **Rol & Aporte:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
-* **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
-* 🔗 **Estado:** `[PRÓXIMAMENTE FORK]`
-
----
-
-### 🎮 3. Project Super Pixel
+### 🎮 2. Project Super Pixel
 <div align="center">
   <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
 </div>
@@ -72,18 +58,32 @@
 
 ---
 
-### 🏋️‍♂️ 4. DexGym!
+### 🤖 3. Project MADAI (Me As Developer AI)
 <div align="center">
-  <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
+  <img src="https://i.imgur.com/3ZEOtEt.png" alt="Project MADAI Banner" width="100%" />
 </div>
 
 <br>
 
-* **Descripción:** Sistema integral de software para la administración de gimnasios, gestión de usuarios, membresías y accesos.
-* **Rol & Aporte:** Co-desarrollo de la lógica de negocio y arquitectura de base de datos relacional.
-* **Stack:** `C#` • `Arquitectura MVC` • `SQL Server`
-* **Reconocimiento:** 🏆 **Certificación en Expoferia Tecnológica (IUTEPI)**.
-* 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
+* **Descripción:** Asistente inteligente para programadores en tiempo real que integra modelos de IA locales (`Ollama` / `Phi-3`).
+* **Rol & Aporte:** Co-desarrollo backend, estructuración de la base de datos relacional y lógica de integración con modelos.
+* **Stack:** `Python` • `KivyMD` • `MySQL`
+* **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)** (3 ediciones consecutivas: 2025 – 2026).
+* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
+
+---
+
+### 🏛️ 4. Project AUDITTANIMUS
+<div align="center">
+  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
+</div>
+
+<br>
+
+* **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
+* **Rol & Aporte:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
+* **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
+* 🔗 **Estado:** `[PRÓXIMAMENTE FORK]`
 
 ---
 
