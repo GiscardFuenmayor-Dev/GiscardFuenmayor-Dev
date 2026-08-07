@@ -1,7 +1,7 @@
 <div align="center">
 
 # GISCARD FUENMAYOR
-### **Systems Analyst & Full-Stack**
+### **Analista de Sistemas y Full-Stack**
 
 [![Status](https://img.shields.io/badge/Nivel-Analista_de_Sistemas_(6to_Semestre)-0F172A?style=for-the-badge&logo=graduation-cap&logoColor=38BDF8)](#)
 [![Location](https://img.shields.io/badge/Ubicación-Valencia,_Carabobo,_VE-0F172A?style=for-the-badge&logo=google-maps&logoColor=F43F5E)](#)
@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Especificaciones del Stack
+## Especificaciones del Stack
 
 | Dominio | Tecnologías y Herramientas Integradas |
 | :--- | :--- |
@@ -26,9 +26,9 @@
 
 ---
 
-## 🚀 Portafolio de Proyectos (Co-Desarrollo)
+## Portafolio de Proyectos (Co-Desarrollo)
 
-### 🏛️ 4. Project AUDITTANIMUS
+### 4. Project AUDITTANIMUS
 <div align="center">
   <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
 </div>
@@ -38,11 +38,11 @@
 * **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
 * **Rol & Aporte:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
 * **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
-* 🔗 **Estado:** `[PRÓXIMAMENTE FORK]`
+*  **Estado:** `[PRÓXIMAMENTE FORK]`
 
 ---
 
-### 🤖 3. Project MADAI (Me As Developer AI)
+### 3. Project MADAI (Me As Developer AI)
 <div align="center">
   <img src="https://i.imgur.com/3ZEOtEt.png" alt="Project MADAI Banner" width="100%" />
 </div>
@@ -52,12 +52,12 @@
 * **Descripción:** Asistente inteligente para programadores en tiempo real que integra modelos de IA locales (`Ollama` / `Phi-3`).
 * **Rol & Aporte:** Co-desarrollo backend, estructuración de la base de datos relacional y lógica de integración con modelos.
 * **Stack:** `Python` • `KivyMD` • `MySQL`
-* **Reconocimiento:** 🏆 **2do Lugar en Expoferia Tecnológica (IUTEPI)**
-* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
+* **Reconocimiento:** **2do Lugar en Expoferia Tecnológica (IUTEPI)**
+*  **Repositorio:** [LeonelMachado-Dev/Project-MADAI](https://github.com/LeonelMachado-Dev/Project-MADAI)
 
 ---
 
-### 🎮 2. Project Super Pixel
+### 2. Project Super Pixel
 <div align="center">
   <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
 </div>
@@ -67,12 +67,12 @@
 * **Descripción:** Demo jugable de 2 niveles en motor 2D con mecánicas de interacción, físicas y sistema de nivelación.
 * **Rol & Aporte:** Co-desarrollo y lógica de juego, programación de comportamientos y eventos de escenario.
 * **Stack:** `Godot Engine` • `GDScript`
-* **Reconocimiento:** 🏆 **Certificación Expoferia Godot (IUTEPI)**.
-* 🔗 **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
+* **Reconocimiento:** **Certificación Expoferia Godot (IUTEPI)**.
+*  **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
 
 ---
 
-### 🏋️‍♂️ 1. DexGym!
+### 1. DexGym!
 <div align="center">
   <img src="https://i.imgur.com/wC2ymFG.png" alt="DexGym Banner" width="100%" />
 </div>
@@ -82,12 +82,12 @@
 * **Descripción:** Sistema integral de software para la administración de gimnasios, gestión de usuarios, membresías y accesos.
 * **Rol & Aporte:** Co-desarrollo de la lógica de negocio y arquitectura de base de datos relacional.
 * **Stack:** `C#` • `Arquitectura MVC` • `SQL Server`
-* **Reconocimiento:** 🏆 **Certificación en Expoferia Tecnológica (IUTEPI)**.
-* 🔗 **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
+* **Reconocimiento:** **Certificación en Expoferia Tecnológica (IUTEPI)**.
+*  **Repositorio:** [LeonelMachado-Dev/DexGym](https://github.com/LeonelMachado-Dev/DexGym)
 
 ---
 
-## 💼 Trayectoria Profesional
+## Trayectoria Profesional
 
 #### **COMFUTECH.NET C.A.** *(2025 – 2026)*
 * **Diseñador y Programador:** Desarrollo de módulos de software y maquetación de interfaces gráficas.
