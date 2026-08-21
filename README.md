@@ -18,9 +18,9 @@
 ## 👨‍💻 Sobre Mí
 
 * 🎓 **Estudiante de 6to Semestre de Análisis de Sistemas** en el IUTEPI.
-* 🛠️ **Enfoque Técnico:** Arquitectura MVC, modelado entidad-relación, desarrollo de backend robusto e integración de APIs de LLMs (Groq, Gemini, Ollama).
+* 🛠️ **Enfoque Técnico:** Arquitectura MVC, modelado entidad-relación, desarrollo backend e integración de APIs de LLMs (Groq, Gemini, Ollama).
 * ⚙️ **Especialidades:** C#, Python, React 19, SQL Server, PostgreSQL, Godot Engine (GDScript).
-* 🏆 **Reconocimientos:** 2do Lugar consecutivo y certificaciones de excelencia en la Expoferia Tecnológica IUTEPI.
+* 🏆 **Reconocimientos:** 2do Lugar y certificaciones de excelencia en la Expoferia Tecnológica IUTEPI.
 
 ---
 
@@ -57,15 +57,15 @@
 ---
 
 ### 2. Sistema de Gestión Administrativa & Reservas — Hotel Restaurant Los Pastores
-* **Descripción:** Aplicación de escritorio empresarial diseñada para la automatización administrativa, control riguroso de inventarios, gestión de facturación y reservas de habitaciones.
+* **Descripción:** Aplicación de escritorio empresarial diseñada para la automatización administrativa, control de inventarios, gestión de facturación y reservas de habitaciones.
 * **Aporte Técnico:** Arquitectura modular en C#, diseño de la base de datos relacional orientada a consistencia ACID e implementación de reportes gerenciales.
 * **Stack:** `C# (.NET)` • `SQL Server` • `Windows Forms`
 
 ---
 
 ### 3. FarMaia — Landing Page Comercial
-* **Descripción:** Plataforma web corporativa y moderna desarrollada para una cadena local de farmacia y casa médica.
-* **Aporte Técnico:** Maquetación responsive, optimización de velocidad de carga y componentes reutilizables utilizando las últimas estándares web.
+* **Descripción:** Plataforma web corporativa desarrollada para una cadena local de farmacia y casa médica.
+* **Aporte Técnico:** Maquetación responsive, diseño de componentes reutilizables y optimización de velocidad de carga.
 * **Stack:** `React 19` • `Vite` • `Tailwind CSS v4` • `JavaScript`
 
 ---
@@ -85,17 +85,32 @@
 
 ---
 
-### 5. Project AUDITTANIMUS & Super Pixel
+### 5. Project Super Pixel
 <div align="center">
-  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="49%" />
-  <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="49%" />
+  <img src="https://i.imgur.com/sqOLH53.png" alt="Project Super Pixel Banner" width="100%" />
 </div>
 
 <br>
 
-* **AUDITTANIMUS:** Recreación interactiva de la interfaz del Animus integrada con la **Groq API** para consultas en tiempo real sobre SQLite.
-* **Super Pixel:** Demo de videojuegos 2D con programación de físicas, eventos y comportamiento de entidades *(Certificado Expoferia Godot)*.
+* **Descripción:** Demo jugable de 2 niveles en motor 2D con mecánicas de interacción, físicas y sistema de nivelación.
+* **Aporte Técnico:** Co-desarrollo de la lógica de juego, programación de comportamientos de entidades y eventos de escenario.
+* **Stack:** `Godot Engine` • `GDScript`
+* **Reconocimiento:** 📜 **Certificación Expoferia Godot (IUTEPI)**
+* **Repositorio:** [LeonelMachado-Dev/Project-Super-Pixel](https://github.com/LeonelMachado-Dev/Project-Super-Pixel)
+
+---
+
+### 6. Project AUDITTANIMUS
+<div align="center">
+  <img src="https://i.imgur.com/xFCDTkc.png" alt="Project AUDITTANIMUS Banner" width="100%" />
+</div>
+
+<br>
+
+* **Descripción:** Recreación e implementación conceptual de la base de datos e interfaz del Animus (inspirada en Assassin's Creed).
+* **Aporte Técnico:** Co-desarrollador enfocado en la integración de IA mediante API para la gestión de consultas en tiempo real y persistencia ligera.
 * **Stack:** `Godot Engine` • `GDScript` • `Groq API` • `SQLite`
+* **Estado:** `[PRÓXIMAMENTE FORK]`
 
 ---
 
@@ -107,7 +122,7 @@
   * Maquetación y desarrollo de interfaces de usuario (UI/UX) enfocadas en usabilidad.
 * **Técnico de Mantenimiento y Soporte:**
   * Diagnóstico preventivo y correctivo de hardware, arquitectura de red y sistemas informáticos.
-  * Configuración de servidores locales y resolución de incidencias de software/hardware.
+  * Configuración de servidores locales y resolución de incidencias de software y hardware.
 
 ---
 
@@ -124,7 +139,7 @@
 
 <div align="center">
 
-## 📬 Contacto & Conexión Professional
+## 📬 Contacto & Conexión Profesional
 
 [![Email](https://img.shields.io/badge/Email-giscardfuenmayormontilla%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giscardfuenmayormontilla@gmail.com)
 
